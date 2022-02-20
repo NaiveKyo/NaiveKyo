@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm NaiveKyo 👋
 
 <!--
 **NaiveKyo/NaiveKyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|<a href="https://naivekyo.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NaiveKyo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NaiveKyo's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiveKyo&layout=compact&theme=buefy&hide_border=true&hide=PLpgSQL" /></a> |
+| ------------- | ------------- |
+| [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NaiveKyo&bg_color=white)](https://github.com/ashutosh00710/github-readme-activity-graph) | <img align="center" src="https://github-profile-trophy.vercel.app/?username=NaiveKyo&column=3&margin-w=15&margin-h=15" /> |
