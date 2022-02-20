@@ -1,4 +1,5 @@
 ### Hi there, I'm NaiveKyo 👋
+<hr />
 
 <!--
 **NaiveKyo/NaiveKyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|<a href="https://naivekyo.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NaiveKyo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NaiveKyo's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiveKyo&layout=compact&theme=buefy&hide_border=true&hide=PLpgSQL" /></a> |
-| ------------- | ------------- |
-| [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NaiveKyo&bg_color=white)](https://github.com/ashutosh00710/github-readme-activity-graph) | <img align="center" src="https://github-profile-trophy.vercel.app/?username=NaiveKyo&column=3&margin-w=15&margin-h=15" /> |
+<p align="center">
+  <a href="https://naivekyo.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaiveKyo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NaiveKyo's github stats" />
+  </a>
+  
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiveKyo&layout=compact&theme=buefy&hide_border=true&hide=PLpgSQL" />
+  </a>
+  
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=NaiveKyo&line=3399ff&bg_color=FFFFFF&color=000000&area=true&area_color=98F5FF&point=339933" />
+  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=NaiveKyo&theme=flat&no-frame=true&column=7" />
+</p>
