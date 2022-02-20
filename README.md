@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiveKyo&layout=compact&theme=buefy&hide_border=true&hide=PLpgSQL" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiveKyo&theme=buefy&hide_border=true&hide=PLpgSQL,html,css" />
   </a>
   
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=NaiveKyo&line=3399ff&bg_color=FFFFFF&color=000000&area=true&area_color=98F5FF&point=339933" />
