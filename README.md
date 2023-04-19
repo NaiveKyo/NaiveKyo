@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://naivekyo.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaiveKyo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NaiveKyo's github stats" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NaiveKyo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NaiveKyo's github stats" />
   </a>
   
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiveKyo&theme=buefy&hide_border=true&hide=PLpgSQL,html,css" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NaiveKyo&theme=buefy&hide_border=true&hide=PLpgSQL,html,css" />
   </a>
   
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=NaiveKyo&line=3399ff&bg_color=FFFFFF&color=000000&area=true&area_color=98F5FF&point=339933" />
